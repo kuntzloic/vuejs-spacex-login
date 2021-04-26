@@ -1,4 +1,4 @@
-# super-compteur
+# vuejs-spacex-login
 
 ## Project setup
 ```
